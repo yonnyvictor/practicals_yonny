@@ -1,8 +1,10 @@
+Create a Mariadb database name eprod_school
+Run the eprod_school.sql to setup the database structure
+The database username and password must be set on the main Applicaiton File found in src/com/eprod/school/EprodSchoolApp.java
 
-The following configuration are require for the Application to run
-Database and Password. This are set on the main Applicaiton File found in src/com/eprod/school/EprodSchoolApp.java
+Compile and Run to teust
 
-Note: Due to pressure of time, i did the application using Javalin framework (https://javalin.io/)
+The application is built using Javalin framework (https://javalin.io/)
 
 API endpoints
 
